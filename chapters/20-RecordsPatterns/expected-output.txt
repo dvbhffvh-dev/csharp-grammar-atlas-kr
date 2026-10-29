@@ -1,0 +1,10 @@
+value-equal=True
+same-instance=False
+titles=C#/C# Guide
+shared-tag=advanced
+array-content-equality=False
+grade=A
+price=budget
+list-match=True
+unknown=other
+null=empty

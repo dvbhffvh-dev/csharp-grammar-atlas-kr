@@ -1,0 +1,7 @@
+list: 30, 20, 40
+dictionary: True / 4
+missing: False
+set add: False / True
+set count: 3
+order: first / second
+filtered: 1, 3

@@ -1,0 +1,5 @@
+temperature=0->22
+temperature=22->25
+alert=25
+temperature=25->30
+final=35

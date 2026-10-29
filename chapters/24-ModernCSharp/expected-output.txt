@@ -1,0 +1,6 @@
+collection=0,1,2,3
+primary=19:LINQ
+params=10
+field=Ada
+skipped=0
+assigned=Ben,calls=1

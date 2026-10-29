@@ -1,0 +1,7 @@
+value: 10 / 20
+struct: 2 / 9
+reference: 8 / 8
+replace: 8 / 99
+string: cat / cat!
+ref: 11
+enum: Paid / 1

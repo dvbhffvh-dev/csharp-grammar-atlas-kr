@@ -1,0 +1,9 @@
+try: start
+catch: divide by zero
+finally: cleanup
+open: sample
+use: sample
+dispose: sample
+after using
+inner: rethrow
+outer: invalid quantity

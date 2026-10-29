@@ -1,0 +1,4 @@
+account: A-01 / Min / 100
+deposit: True / 150
+negative: False / 150
+shared: 1 / KRW

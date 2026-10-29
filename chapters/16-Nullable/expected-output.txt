@@ -1,0 +1,6 @@
+value: False / -1
+present: 80
+length: 0
+name: Guest
+found: MIN
+forgiving still null: True

@@ -1,0 +1,5 @@
+area: 12
+describe: rectangle
+loop: 10
+loop: 9
+hidden: base / fancy

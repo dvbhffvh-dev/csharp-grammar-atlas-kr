@@ -1,0 +1,4 @@
+results=loaded-A,loaded-B
+cpu-sum=15
+canceled=True
+error=sample

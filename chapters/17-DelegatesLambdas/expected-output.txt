@@ -1,0 +1,8 @@
+square(3)=9
+even(8)=True
+before=True
+after=False
+shared=3,3,3
+copied=0,1,2
+first
+second

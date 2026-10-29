@@ -1,0 +1,7 @@
+first-line=C#
+second-line=JSON
+json={"Name":"Ada","CompletedChapters":[1,2,3]}
+name=Ada
+completed=1,2,3
+file=profile.json
+cleaned=True

@@ -1,0 +1,8 @@
+passed=Ada,Cora
+team=blue,count=2
+team=red,count=1
+joined=Cora:Fire,Ben:Ocean,Ada:Ocean
+perfect=False
+snapshot=3,4
+live=3,4,5
+predicate-calls=10
